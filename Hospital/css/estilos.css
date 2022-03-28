@@ -1,0 +1,9 @@
+﻿body {
+    text-align: center;
+    background-image: url('../img/salud_Hospital.jpg');
+}
+
+input{
+    border-radius: 5%;
+    border-color: cornflowerblue;
+}

@@ -1,0 +1,6 @@
+C:\Users\yova1\OneDrive\Escritorio\estudio cesde\lenguaje de programacion\Hospital\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\yova1\OneDrive\Escritorio\estudio cesde\lenguaje de programacion\Hospital\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\yova1\OneDrive\Escritorio\estudio cesde\lenguaje de programacion\Hospital\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\yova1\OneDrive\Escritorio\estudio cesde\lenguaje de programacion\Hospital\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\yova1\OneDrive\Escritorio\estudio cesde\lenguaje de programacion\Hospital\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\yova1\OneDrive\Escritorio\estudio cesde\lenguaje de programacion\Hospital\CapaEntidad\obj\Debug\CapaEntidad.pdb
